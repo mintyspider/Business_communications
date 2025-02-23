@@ -25,6 +25,6 @@ ____
 
 [Лекция 2. Сущность понятий общения и коммуникации](https://github.com/mintyspider/Business_communications/blob/main/Лекция%202.%20Сущность%20понятий%20общения%20и%20коммуникации.pdf)
 
-[Лекция 3.Сущность и специфика деловых коммуникаций](https://github.com/mintyspider/Business_communications/blob/main/Лекция%203.%20Сущность%20и%20специфика%20деловых%20коммуникаций.pdf)
+[Лекция 3. Сущность и специфика деловых коммуникаций](https://github.com/mintyspider/Business_communications/blob/main/Лекция%203.%20Сущность%20и%20специфика%20деловых%20коммуникаций.pdf)
 
 
