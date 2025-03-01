@@ -27,4 +27,4 @@ ____
 
 [Лекция 3. Сущность и специфика деловых коммуникаций](https://github.com/mintyspider/Business_communications/blob/main/Лекция%203.%20Сущность%20и%20специфика%20деловых%20коммуникаций.pdf)
 
-
+[Лекция 4. Фазы деловых коммуникаций](https://github.com/mintyspider/Business_communications/blob/main/Лекция%204.%20Фазы%20деловых%20коммуникаций.pdf)
